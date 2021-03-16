@@ -2,6 +2,12 @@
 
 I'm glad you are here. I plan to talk about my life here 👀, are you excited?
 
+**checkout my posts**
+- [My first post](---
+title: "My first Blog-post ever!"
+date: 2021-03-16
+---)
+
 Some things I consider to talk about:
 - _my personal life_
 - _my career_
