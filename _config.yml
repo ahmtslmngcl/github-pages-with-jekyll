@@ -1,6 +1,7 @@
 title: Ahis virtuel room
 author: ahibaba
 email: ahmeetselman@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is a fun blog page of Ahmet Selman. Just to work out how GitHub pages works lol
 
